@@ -57,9 +57,7 @@ p{
 .middle-header{
     padding-left: 30px;
 }
-/* first section end*/
 
-/*second section*/
 .second-section{
     margin-top: 130px;
 }
@@ -93,24 +91,45 @@ p{
  }
  .middle-contant:nth-child(3){
     background-color: #F6EABE;
-    margin-right: auto;
+    margin-right: 110px;
     
     
 }
 .documintasion-1{
     width: 60%;
 }
+.documintasion-2{
+    width: 50%;
+    margin-right: 80px;
+}
 
 
-/*third section start*/
+
 
 .third-sec-contain img{
     width: 300px;
-    margin-right: 35px;
+    margin-right: 50px;
 
 }
 .third-sec-contain{
     display: flex;
     margin-top: 60px;
     margin-left: 110px;
+}
+.four-section img{
+    margin-left: 30px;
+}
+.footer-area{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.footer-area p{
+    color:#ddd;
+}
+.footer-span{
+    color: tomato;
 }
