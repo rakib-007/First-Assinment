@@ -20,13 +20,14 @@ p{
 }
 
 .heading-area{
-    font-family: 'Playfair Display', serif;
+    
     font-weight: 900;
     line-height: 15px;
     margin-bottom: 20px;
     border-left: 3px solid ;
-    border-image: linear-gradient( #ff7c7c 0%, #f75929 100%); 
+    border-image: linear-gradient( #35e644 0%, #f75929 100%); 
     border-image-slice :1;
+   
 
 }
 .heading-area h1{
