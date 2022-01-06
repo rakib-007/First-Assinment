@@ -22,12 +22,12 @@ p{
 }
 
 .heading-area{
-    
-    font-weight: 900;
+    font-family: 'Prata', serif;
+    font-weight: 800;
     line-height: 15px;
     margin-bottom: 20px;
     border-left: 3px solid ;
-    
+   
     border-image: linear-gradient( #35e644 0%, #f75929 100%); 
     border-image-slice :1;
    
@@ -35,6 +35,8 @@ p{
 }
 .heading-area h1{
     padding:2px;
+    margin-top: 2px;
+    margin-left: 5px;
 }
 
 .Link-button{
