@@ -52,7 +52,7 @@ p{
 
 }
 .half-width img{
-    width: 50%;
+    width: 40%;
     margin-top: -50px;
     margin-left: 75px;
 }
@@ -74,25 +74,27 @@ p{
    
 }
 .middle-contain img{
-    width: 100%;
+    width: 90%;
+
+    
 }
 .middle-contant{
-    width: 200px;
-    border-radius: 10px;
+    width: 400px;
+    border-radius: 15px;
     padding: 20px;
 
 }
 .middle-contant:nth-child(1){
    background-color:#e0f1fc;
-   margin-left: 110px;
-   margin-right: 190px;
+   margin-left: 140px;
+   margin-right: 170px;
 }
 .middle-contant:nth-child(2){
     background-color:#DDDDE3;
-    margin-right: 190px;
+    margin-right: 170px;
  }
  .middle-contant:nth-child(3){
-    background-color: #F6EABE;
+    background-color: #faf5e3;
     margin-right: 110px;
     
     
