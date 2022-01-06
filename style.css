@@ -17,7 +17,7 @@ p{
 }
 .scrool-bar-down{
     margin-top: -30px;
-    margin-left: 115px;
+    margin-left: 110px;
 }
 
 .heading-area{
@@ -26,6 +26,7 @@ p{
     line-height: 15px;
     margin-bottom: 20px;
     border-left: 3px solid ;
+    
     border-image: linear-gradient( #35e644 0%, #f75929 100%); 
     border-image-slice :1;
    
@@ -52,9 +53,9 @@ p{
 
 }
 .half-width img{
-    width: 40%;
-    margin-top: -50px;
-    margin-left: 75px;
+    width: 330px;
+    margin-top: -70px;
+    margin-left: 200px;
 }
 .middle-header{
     padding-left: 30px;
@@ -68,25 +69,26 @@ p{
 }
 .middle-contain{
     display: flex;
-  
+  width: 60%;
     margin-top: 50px;
     padding: 15px;
    
 }
 .middle-contain img{
-    width: 90%;
+    width: 250px;
+    
 
     
 }
 .middle-contant{
-    width: 400px;
+    width: ;
     border-radius: 15px;
     padding: 20px;
 
 }
 .middle-contant:nth-child(1){
    background-color:#e0f1fc;
-   margin-left: 140px;
+   margin-left: 110px;
    margin-right: 170px;
 }
 .middle-contant:nth-child(2){
@@ -101,12 +103,16 @@ p{
 }
 .documintasion-1{
     width: 60%;
+    margin-left: 30px;
 }
 .documintasion-2{
-    width: 50%;
-    margin-right: 80px;
+    width: 55%;
+    margin-right: 90px;
 }
-
+.project-pic{
+    margin-left: 60px;
+    
+}
 
 
 
