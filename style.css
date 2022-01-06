@@ -1,5 +1,6 @@
 body{
     font-family: font-family: 'Oxygen', sans-serif;
+    
     margin:0;
     padding : 0;
 }
@@ -142,4 +143,7 @@ p{
 }
 .footer-span{
     color: tomato;
+}
+.footer-area h1{
+    font-family: 'Lobster', cursive;
 }
